@@ -1,2 +1,3 @@
-# WebDev.Nvim
-My Personal Nvim Config - Web Dev Ready - Minimalistic - Lightweight  - 100% Lua
+WebDev.Nvim
+
+![screenshot](https://raw.githubusercontent.com/c99tn/WebDev.Nvim/main/Nvim.png)

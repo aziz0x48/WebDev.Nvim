@@ -37,7 +37,7 @@ nvim +PackerSync
 ## Default Mappings
 - Rotate between buffers : **TAB**
 - Open file explorer : **SPACE+o**
-- Open file explorer : **SPACE+c**
+- Close file explorer : **SPACE+c**
 - Focus on file explorer : **SPACE+e**
 - Focus on buffer : **CTRL+l**
 - Close Buffers : **SPACE+r**

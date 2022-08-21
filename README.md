@@ -1,7 +1,7 @@
 # WebDev.Nvim
 ## Simple, Minimalistic, Easy to Customize Nvim Config, Web Dev friendly, 100% Lua.
 <br></br>
-![screenshot](https://raw.githubusercontent.com/c99tn/WebDev.Nvim/main/Nvim.png)
+![screenshot](https://github.com/c99tn/WebDev.Nvim/blob/main/nvim_screenshot.png?raw=true)
 <br></br>  
 ## Introduction
 Trying to keep this as lightweight and simple as possible. therefore, I only used plugins that I find necessary,
@@ -44,6 +44,7 @@ nvim +PackerSync
 - Find Files : **SPACE+f**
 - Live Grep : **SPACE+g**
 - Format : **SPACE+l+p**
+- Go to Definition : **g+d**  
 To use your own key mappings, edit:
 ```
 :e lua/mappings/init.lua

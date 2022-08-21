@@ -8,10 +8,9 @@ require('autopairs-config')
 require('mappings')
 require('telescope-config')
 require('lsp')
-require('snip-config')
 require('colorizer-config')
 require('null-ls-config')
 
 vim.cmd('colorscheme carbonfox')
 vim.cmd('NvimTreeResize 24')
-
+vim.cmd(':set cmdheight=1')

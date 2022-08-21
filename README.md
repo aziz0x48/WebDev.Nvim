@@ -44,6 +44,7 @@ nvim +PackerSync
 - Find Files : **SPACE+f**
 - Live Grep : **SPACE+g**
 - Format : **SPACE+l+p**
+- Toggle Terminal : **SPACE+T**
 - Go to Definition : **g+d**  
 To use your own key mappings, edit:
 ```

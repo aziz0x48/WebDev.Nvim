@@ -1,5 +1,5 @@
 # WebDev.Nvim
-## Simple, Minimalistic, Easy to Customize Nvim Config, Web Dev friendly, 100% Lua.
+## Simple, Minimalistic, Easy to Customize Nvim Config, Web Dev ready, 100% Lua.
 <br></br>
 ![screenshot](https://github.com/c99tn/WebDev.Nvim/blob/main/nvim_screenshot.png?raw=true)
 <br></br>  
